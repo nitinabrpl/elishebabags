@@ -12,9 +12,11 @@ function Header(props){
     
     //console.warn(props.data)
     return(
+        
+
         <>
 <header className="fixedHeader">
-    <div className="navtop">
+    <div className="navtop">   
         <div className="container">
             <div className="uppernav">
                 GET 20% SALE WITH COUPONE CODE <span title="click for copy Coupon Code">CGBNJKI25</span>
@@ -69,7 +71,7 @@ function Header(props){
     </div>
 </header>
         </>
-    )
+    ) 
 }
 
 export default Header;
