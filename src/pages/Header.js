@@ -15,10 +15,10 @@ function Header(props){
         
 
         <>
-<header className="fixedHeader">
-    <div className="navtop">   
-        <div className="container">
-            <div className="uppernav">
+<header className="fixedHeader"> 
+    <div className="navtop">    
+        <div className="container"> 
+            <div className="uppernav"> 
                 GET 20% SALE WITH COUPONE CODE <span title="click for copy Coupon Code">CGBNJKI25</span>
             </div>
         </div>
